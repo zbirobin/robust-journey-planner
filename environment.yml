@@ -1,0 +1,20 @@
+name: "base"
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - ipywidgets
+  - plotly=4.14.3
+  - hdfs3
+  - pip
+  - pip:
+      - scikit-learn
+      - geopandas
+# - add packages here
+# - one per line
+  - pyarrow
+  - fastparquet
+prefix: "/opt/conda"
+

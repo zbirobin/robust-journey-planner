@@ -7,7 +7,6 @@ The video presenting this robust journey planner is available on: https://youtu.
 ----
 ## Content
 
-* [HOW-TO](#HOW-TO)
 * [Problem Motivation](#Problem-Motivation)
 * [Problem Description](#Problem-Description)
 * [Dataset Description](#Dataset-Description)

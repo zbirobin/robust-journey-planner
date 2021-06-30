@@ -1,5 +1,7 @@
 # Robust Journey Planning
 
+*By Robin Zbinden, Nicolas d'Argenlieu, Olivier Lam and Stanislas Jouven.*
+
 This project was realized as a final project of the EPFL class: Lab in Data Sciences (COM-490). The goal was to build a robust journey planner taking into accound the delays of  public transports and therefore proposing to the users differents routes, each with an associated value estimating the probability to miss none public transport. The project was rewarded with the grade of 5.75/6.
 
 The video presenting this robust journey planner is available on: https://youtu.be/ek1jMLtqC48
@@ -45,11 +47,11 @@ The output of the algorithm is a list of routes between _A_ and _B_ and their co
 
 In order to answer this question we have done the following tasks:
 
-- Model the public transport infrastructure for your route planning algorithm using the data provided to you.
+- Model the public transport infrastructure for our route planning algorithm using the data provided to us.
 - Build a predictive model using the historical arrival/departure time data, and optionally other sources of data.
 - Implement a robust route planning algorithm using this predictive model.
-- Test and validate your results.
-- Implement a simple Jupyter-based visualization to demonstrate your method, using Jupyter dashboard such as [Voilà](https://voila.readthedocs.io/en/stable/) or [ipywidgets](https://ipywidgets.readthedocs.io/en/stable/user_guide.html).
+- Test and validate our results.
+- Implement a simple Jupyter-based visualization to demonstrate our method, using Jupyter dashboard such as [Voilà](https://voila.readthedocs.io/en/stable/) or [ipywidgets](https://ipywidgets.readthedocs.io/en/stable/user_guide.html).
 
 Solving this problem accurately is difficult. Therefore we have done the following simplifying assumptions:
 
